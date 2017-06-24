@@ -1,0 +1,167 @@
+/*warna*/
+.biru-1 {
+    background-color: #A8E1ff !important;
+}
+
+.biru-2 {
+    background-color: #77D0ff !important;
+}
+
+.biru-3 {
+    background-color: #0DAAFF !important;
+}
+
+.biru-4 {
+    background-color: #005A8A !important;
+}
+
+.biru-5 {
+    background-color: #00465A !important;
+}
+
+.oren-1 {
+    background-color: #FFD5A4 !important;
+}
+
+.oren-2 {
+    background-color: #FFBE70 !important;
+}
+
+.oren-3 {
+    background-color: #FF8D00 !important;
+}
+
+.oren-4 {
+    background-color: #D97600 !important;
+}
+
+.oren-5 {
+    background-color: #A75B00 !important;
+}
+
+.text-biru-1 {
+    color: #A8E1ff !important;
+}
+
+.text-biru-2 {
+    color: #77D0ff !important;
+}
+
+.text-biru-3 {
+    color: #0DAAFF !important;
+}
+
+.text-biru-4 {
+    color: #005A8A !important;
+}
+
+.text-biru-5 {
+    color: #00465A !important;
+}
+
+.text-oren-1 {
+    color: #FFD5A4 !important;
+}
+
+.text-oren-2 {
+    color: #FFBE70 !important;
+}
+
+.text-oren-3 {
+    color: #FF8D00 !important;
+}
+
+.text-oren-4 {
+    color: #D97600 !important;
+}
+
+.text-oren-5 {
+    color: #A75B00 !important;
+}
+
+.main {
+    height: 100vh;
+    width: 100%;
+    /*
+    background-image:url("../img/back4.jpg");
+    background-size:cover;
+    */
+    background-color: rgba(168, 225, 255, 1);
+}
+
+.shadow {
+    -webkit-box-shadow: 1px 3px 18px 0px rgba(0, 0, 0, 0.52);
+    -moz-box-shadow: 1px 3px 18px 0px rgba(0, 0, 0, 0.52);
+    box-shadow: 1px 3px 18px 0px rgba(0, 0, 0, 0.52);
+}
+
+.box-nav {
+    width: 10%;
+}
+
+.nav-ti {
+    height: 7vh;
+    background-color: rgba(0, 69, 106, 1) !important;
+    /*background-color: rgba(7,19,238,0.6) !important;*/
+    -webkit-box-shadow: 1px 3px 18px 0px rgba(0, 0, 0, 0.52);
+    -moz-box-shadow: 1px 3px 18px 0px rgba(0, 0, 0, 0.52);
+    box-shadow: 1px 3px 18px 0px rgba(0, 0, 0, 0.52);
+}
+
+.menu-dd {
+    background-color: #4390B9 !important;
+    border-right-color: #0713ee;
+}
+
+.nav-menu {
+    color: #f2f2f2 !important;
+}
+
+.nav-statistik {
+    color: rgba(0, 69, 106, 1) !important;
+}
+
+.uk-navbar-item > span {
+    color: white !important;
+}
+
+.uk-nav > li > a:hover {
+    background-color: rgba(119, 207, 255, 1);
+    padding-left: 5px;
+    color: rgba(0, 69, 106, 1) !important;
+}
+
+.card-judul {
+    height: 5vh !important;
+    background-color: white !important;
+}
+
+.r1 {
+    height: 3vh !important;
+    padding-top: 5px !important;
+}
+
+.r2 {
+    height: 80vh !important;
+}
+
+.h-panel {
+    height: 70vh !important;
+    width: 100% !important;
+}
+
+.uk-table-hover > tr:hover,
+.uk-table-hover tbody tr:hover {
+    background: aliceblue;
+    color: #00465A;
+}
+
+body {
+    overflow: hidden;
+}
+
+.off_kanan {
+    top: calc(16vh + 3px) !important;
+    height: 80vh !important;
+    width: 600px;
+}
